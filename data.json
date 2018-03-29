@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "name":"narasimhareddy",
+    "email":"reddy143@gmail.com",
+    "photo":"images.jpeg",
+    "phone":"9999999",
+    "address":"kadapa, AP"
+  },
+  "career":{
+    "info":"Seeking challenging career in [your profession] Sector to get a position of responsibility, using my professional skills and efficiency to communicate my ideas and views and commit myself for achieving organizational objectives with the team effort and my positive attitude and performance."
+  },
+"education":[
+{
+  "course":"mca",
+  "college":"svpcet,PUTTUR,",
+  "data":["2015-2018","74%"]
+},
+{
+  "course":"BSC",
+  "college":"B.S.R,KADAPA,",
+  "data":["2012-2015","69%"]
+},
+{
+  "course":"INTERMEDIATE",
+  "college":"ANM&BR,RAYACHOTI,",
+  "data":["2010-2012","74%"]
+},
+{
+  "course":"S.S.C",
+  "college":"GOWTHAM,RAYACHOTI,",
+  "data":["2009-2010","74%"]
+  }
+]
+}
